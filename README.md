@@ -1,6 +1,5 @@
 # Software-Engineering-Term-Project
 
-# BookBazaar Term Project
   Group: Alihan Cakiralioglu, Emma Granquist, Elizabeth Horishny, Cian Kelly, Charles Pederson
   
   Started: September 2020
