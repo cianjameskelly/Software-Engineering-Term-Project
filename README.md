@@ -6,8 +6,6 @@
   
   Ended: November 2020
   
-  [GitHub Link] https://github.com/lizzBee/CSC190/tree/Charlie2.0
-  
 ## Description
 
 Book Bazaar is an Android textbook trading application developed using Android Studio.
